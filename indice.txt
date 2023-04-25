@@ -1,5 +1,4 @@
-Comprobar de nuevo el estado del repositorio.
-
-Añadir el fichero a la zona de intercambio temporal.
-
-Volver a comprobar una vez más el estado del repositorio.
+Capítulo 1: Introducción a Git
+Capítulo 2: Flujo de trabajo básico
+Capítulo 3: Gestión de ramas
+Capítulo 4: Repositorios remotos
