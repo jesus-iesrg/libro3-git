@@ -1,0 +1,5 @@
+Comprobar de nuevo el estado del repositorio.
+
+Añadir el fichero a la zona de intercambio temporal.
+
+Volver a comprobar una vez más el estado del repositorio.
